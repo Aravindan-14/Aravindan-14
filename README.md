@@ -20,5 +20,5 @@ I'm a Full Stack Developer focused on building scalable and user-friendly web ap
 
 ## 📫 Connect With Me
 
-- Portfolio: your-portfolio-url
-- LinkedIn: your-linkedin-url
+- Portfolio: [your-portfolio-url](https://aravindan.netlify.app/)
+- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/aravindan-elavarasan-628319280/)
